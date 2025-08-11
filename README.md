@@ -16,7 +16,7 @@ Capture live network packets on Linux using **Wireshark**, identify at least thr
 
 ### 1. **Launched Wireshark** on Linux:
 ```bash
-   sudo wireshark
+sudo wireshark
 ```
 ### 2. Selected the active network interface: 
 ```
